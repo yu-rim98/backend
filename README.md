@@ -32,7 +32,10 @@ WebRTC 기반 음성 통화와 WebSocket 채팅으로 함께하는 경험을 제
 
 ---
 
-## 📁 패키지 아키텍처
+## 📁 시스템 아키텍처 및 패키지 아키텍처
+
+<img width="1658" height="697" alt="image" src="https://github.com/user-attachments/assets/c0491555-2d0e-4309-9caf-4919d7dc2bda" />
+
 
 ```
 src/main/java/com/sesac/joinflix
